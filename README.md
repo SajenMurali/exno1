@@ -158,12 +158,5 @@ z
 <img width="514" height="213" alt="image" src="https://github.com/user-attachments/assets/394f5eda-b68d-4f8c-b5dc-c921ac486d86" />
 
 
-```py
-ir1=ir[z<3]
-ir1
-```
-<img width="619" height="370" alt="image" src="https://github.com/user-attachments/assets/411402de-61ad-4693-aba4-12ebc1788117" />
-
-
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
