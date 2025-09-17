@@ -150,13 +150,5 @@ sns.boxplot(x='sepal_width',data=delid)
 <img width="689" height="472" alt="image" src="https://github.com/user-attachments/assets/d74dfb8b-b6eb-4e86-ad30-973b16423c5e" />
 
 
-```py
-from scipy import stats
-z=np.abs(stats.zscore(ir['sepal_width']))
-z
-```
-<img width="514" height="213" alt="image" src="https://github.com/user-attachments/assets/394f5eda-b68d-4f8c-b5dc-c921ac486d86" />
-
-
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
